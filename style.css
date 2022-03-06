@@ -1,0 +1,44 @@
+body{
+    background-color: #4483D4;
+    width: 100vw;
+    height: 100vh;
+     }
+      h1{
+        color: black;
+        text-align: center;
+        font-size: 48px;
+    }
+    p{
+        color: black;
+        text-align: left;
+        font-family: Racing Sans One;
+        font-size: 46px;
+     }
+        .hero-wrapper{
+            /* TODO:learn about css */
+          width: 1309px;
+          height: 580px;
+          background: #5FFAA8;
+          margin: 150px auto; 
+                   
+     }
+     .container{
+      display: flex;
+       background-color: blueviolet;   
+     }
+     .content{
+       flex: 50%;
+     }
+     .inputcontainer{
+       flex: 50%;
+     }
+     
+     
+       
+     
+
+     
+
+     
+                
+    
