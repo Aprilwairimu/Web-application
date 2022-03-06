@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero-wrapper">
+        <h1>Birthday Calculator</h1>
+         <div class="container">
+         <div class=content>
+           <p>By simply sharing the information required,come and find out
+           which day of the week you were born and also depending on the gender. </p>
+         </div>
+         <div class="inputcontainer"> 
+            <form onsubmit="calculateBirthdayWeek()">
+             <h2>your birth date</h2>
+             <input type="number"id="date" placeholder="date">
+             <input type="name"id="month" placeholder="month">
+             <input type="number"id="year" placeholder="year">
+             <h3> Gender</h3>
+             <input type="text"id="gender" placeholder="gender">
+             <button type="submit">Calculate Age</button>
+             </form>
+       </div>
+    </div>
+</body>
+<script src="scripts.js"></script>
+</html>
