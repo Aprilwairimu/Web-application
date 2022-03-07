@@ -4,7 +4,7 @@ Project description. :It is a web application that takes a user's birthday and c
                      .Akan names are derived from Ghanian culture,whereby children are given their 
                      first name as a 'day name' which  corresponds to the day in the week they were born.
 
-Author(s) information :
+Author(s) information :My name is April and am a developer.
 Setup instructions - includes any scripts that need to be run if necessary.
 BDD.                  :Displayed a form for entering birthdate and gender and as a result 
                        you get your Akan name.
