@@ -24,7 +24,7 @@ body{
      }
      .container{
       display: flex;
-       background-color: blueviolet;   
+       background-color: rgb(208, 186, 228);   
      }
      .content{
        flex: 50%;
