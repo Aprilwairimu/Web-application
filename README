@@ -1,0 +1,17 @@
+Project name.        :Birthday Calculator
+Project description. :It is a web application that takes a user's birthday and calculates the 
+                      day of the week they were born and then depending on their gender outputs.
+                     .Akan names are derived from Ghanian culture,whereby children are given their 
+                     first name as a 'day name' which  corresponds to the day in the week they were born.
+
+Author(s) information :
+Setup instructions - includes any scripts that need to be run if necessary.
+BDD.                  :Displayed a form for entering birthdate and gender and as a result 
+                       you get your Akan name.
+                       Displays undefined when the information required is not fully given.
+
+Technologies used.    :HTML and CSS
+                       JAVASCRIPT
+                       
+Contact information.  :Email me at wairimuapril@gmail.com
+License and Copyright information:MIT Copyright (c) 2019 April Wairimu
