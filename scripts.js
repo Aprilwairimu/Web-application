@@ -17,5 +17,5 @@ function calculateBirthdayWeek() {
         alert('You are born on ' + birthDay + ' and your akan name is ' + gMale)
     } else if (inputGender == 'female') {
         alert('You are born on ' + birthDay + ' and your akan name is ' + gFemale)
+       }
     }
-}
